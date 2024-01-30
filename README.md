@@ -1,4 +1,4 @@
 # first-demo
 this is my first demo in git.
 <br>
-author- dhana
+author- dhana lakshmi
